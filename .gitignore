@@ -1,0 +1,5 @@
+# Ignore dataset folder
+Lung_dataset_21000/
+
+# Ignore zip file
+*.zip
